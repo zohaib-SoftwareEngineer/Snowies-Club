@@ -1,0 +1,26 @@
+{
+  "short_name": "Snowies Club",
+  "name": "Snowies Club",
+  "icons": [
+    {
+      "src": "tabicon960x640.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "tabicon960x640.png",
+      "sizes": "960x640",
+      "type": "image/png"
+    },
+    {
+      "src": "snow512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
